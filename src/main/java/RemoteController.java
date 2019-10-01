@@ -27,7 +27,7 @@
 
 
 //This is project named "Remote Device"
-   
+
 interface Device {
     void powerOn();
 
